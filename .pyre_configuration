@@ -1,0 +1,11 @@
+{
+  "source_directories": [
+    "."
+  ],
+  "search_path": [
+    "C:\\Users\\pooja\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages"
+  ],
+  "exclude": [
+    "**/node_modules/**"
+  ]
+}
