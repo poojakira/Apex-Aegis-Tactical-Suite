@@ -108,3 +108,15 @@ The platform utilizes **SHA3-512 based Lattice signatures** for all mesh communi
 
 **Maintainer:** [Pooja Kira](https://github.com/poojakira)
 *“Dominating the Hyper-Spectral Theater.”*
+
+**DASHBOARD1 :**
+
+![dashboard_AEGIS-X-TATICAL](https://github.com/user-attachments/assets/24c1d266-15ae-4941-8504-569c656d63a6)
+
+
+**DASHBOARD 2:**
+
+![dashboard_APEX-X COMMAND](https://github.com/user-attachments/assets/f7ecf658-4efd-4501-94c7-639d7854d475)
+
+
+
