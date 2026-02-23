@@ -207,12 +207,13 @@ The platform utilizes **SHA3-512 based Lattice signatures** for all mesh communi
 
 **DASHBOARD1 :**
 
-![dashboard_AEGIS-X-TATICAL](https://github.com/user-attachments/assets/24c1d266-15ae-4941-8504-569c656d63a6)
+![dashboard_APEX-X COMMAND](https://github.com/user-attachments/assets/462bd6ed-53a4-4246-9402-b0a34fb53eea)
 
 
 **DASHBOARD 2:**
 
-![dashboard_APEX-X COMMAND](https://github.com/user-attachments/assets/f7ecf658-4efd-4501-94c7-639d7854d475)
+
+![dashboard_AEGIS-X-TATICAL](https://github.com/user-attachments/assets/31740ac4-69a0-4bd3-a6c0-9ff7bcc9f7c4)
 
 
 
