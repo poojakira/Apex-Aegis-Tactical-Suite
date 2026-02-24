@@ -8,6 +8,7 @@ Hypersonic Defense & Multi-Physics AI
 Welcome to the Apex-X Enterprise Defense Platform and Aegis-X Tactical HUD. This suite represents the pinnacle of autonomous defense, multi-physics simulation, and tactical artificial intelligence. Designed for hypersonic intercept maneuvers and strategic theater dominance, this platform integrates real-time Physics-Informed Neural Networks (PINNs), Tactical Transformers, and Post-Quantum Secure communications.
 
 📊 Technical Performance Report
+
 The following metrics were captured during high-fidelity benchmarking of the PINN surrogate engine and the Byzantine-Mesh network:
 
 Latency Optimization:
@@ -26,6 +27,7 @@ Validation: Verified via StyleGAN-based signal reconstruction under adversarial 
 
 🚀 Key Features
 1. Apex-X Enterprise Dashboard (apex_x_dashboard.py)
+   
 The strategic command center for global asset management and high-fidelity ML inference.
 
 ⚛️ PINN Prediction Engine: Real-time multi-physics (Aerodynamic, Thermal, Structural) predictions using Physics-Informed Neural Networks.
@@ -37,6 +39,7 @@ The strategic command center for global asset management and high-fidelity ML in
 🕸️ Byzantine-Mesh Network: Fault-tolerant decentralized communication with consensus-based weight synchronization.
 
 2. Aegis-X Tactical HUD (aegis_x_command.py)
+   
 The ground-level tactical command system for mission execution.
 
 🔬 3D Tactical HUD: Real-time 3D trajectory visualization with AI-predicted flight paths.
